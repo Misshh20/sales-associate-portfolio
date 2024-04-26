@@ -34,4 +34,5 @@ You can connect with me via:
 I look forward to connecting with you and discussing how my sales skills can contribute to your business success!
 
 
-LIVE LINK OF MY PORFOLIO:
+LIVE LINK OF PORFOLIO:
+https://saleswithdeep.netlify.app/
